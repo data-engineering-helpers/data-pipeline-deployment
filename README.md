@@ -11,18 +11,19 @@ some companies, they speak on their personal behalf and do not represent
 these companies.
 
 # Specifications
-* Input: software artifacts (_e.g._, Python wheels, Scala JAR, R packages, SQL dbt packages)
-  corresponding to libraries of business models (like the
-  [BOM4V libraries](https://github.com/bom4v/metamodels) for those knowing them),
-  Airflow DAGs, etc. Let us call that business oriented software the payload/workload.
+* Input: software artifacts (_e.g._, Python wheels, Scala JAR, R packages, SQL dbt packages,
+  Airflow DAGs) corresponding to libraries of business models (like the
+  [BOM4V libraries](https://github.com/bom4v/metamodels)).
+  Let us call that business oriented software the payload/workload.
   The libraries rely on some lower level data processing engines like Spark, Pandas, R
   or dbt.
   
-* Expected delivery: deployment of that business-oriented payload on to a modern data stack (MDS)
-  imfrasture, eg Spark cluster, dbt core/cloud, Kubernetes pods, Lambda/serverless functions.
+* Expected delivery: deployment of that business-oriented payload on to
+  a modern data stack (MDS) infrastructure, _e.g._, Spark cluster,
+  dbt core/cloud, Kubernetes pods or Lambda/serverless functions.
 
-* The data pipelines may optionally be orchestrated, _e.g._, by Airflow; the Airflow DAGs
-  are then themselves packaged as Python wheels.
+* The data pipelines may optionally be orchestrated, _e.g._, by Airflow;
+  the Airflow DAGs are then themselves packaged as Python wheels.
 
 * The specification files (for the deployment of data engineering tasks) are to be maintained
   by the data engineers themselves, not by DevOps/DataOps. Pachyderm model (with specification
