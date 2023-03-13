@@ -11,7 +11,7 @@ some companies, they speak on their personal behalf and do not represent
 these companies.
 
 ## References
-* 
+* [Architecture principles for data engineering pipelines on the Modern Data Stack (MDS)](https://github.com/data-engineering-helpers/architecture-principles)
 
 # Specifications
 
@@ -78,5 +78,6 @@ these companies.
   the wheel
 
 ## Architecture - Principles
-* ![Data Platform - Principles - Data Engineering](https://github.com/data-engineering-helpers/architecture-principles/blob/main/diagrams/material/Data%20Platform%20-%20Principles%20-%20Data%20Engineering%20-%202023-01%20-%20v1.0.png)
+
+![Data Platform - Principles - Data Engineering](https://github.com/data-engineering-helpers/architecture-principles/blob/main/diagrams/material/Data%20Platform%20-%20Principles%20-%20Data%20Engineering%20-%202023-01%20-%20v1.0.png)
 
