@@ -1,4 +1,4 @@
-module github.com/data-engineering-helpers/data-pipeline-deployment/go/dppctl
+module github.com/data-engineering-helpers/data-pipeline-deployment
 
 go 1.20
 

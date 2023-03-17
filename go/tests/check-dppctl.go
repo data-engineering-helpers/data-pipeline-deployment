@@ -5,7 +5,7 @@ package main
 import (
   //"fmt"
   "log"
-  "github.com/data-engineering-helpers/data-pipeline-deployment/go/dppctl"
+  "github.com/data-engineering-helpers/data-pipeline-deployment"
 )
 
 func main() {

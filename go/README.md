@@ -4,6 +4,34 @@ Getting started with Go for Data Processing Pipeline (DPP) CLI tool
 # References
 
 # Getting started
+* Import/download the module:
+```bash
+$ go get github.com/data-engineering-helpers/data-pipeline-deployment@v0.0.x-alpha.x
+```
+
+# Publish the module
+* Recompute the dependencies:
+```bash
+$ go mod tidy
+```
+
+* Check that the tests pass:
+```bash
+$ go test
+```
+* Tag the Git repository:
+```bash
+$ git commit -m "[Release][Go] v0.0.x-alpha.x"
+$ git push
+$ git tag -a v0.0.x-alpha.x -m "[Release][Go] v0.0.x-alpha.x"
+$ git push --tags
+```
+
+* Publish the module:
+```bash
+$ GOPROXY=proxy.golang.org go list -m github.com/data-engineering-helpers/data-pipeline-deployment@v0.0.x-alpha.x
+github.com/data-engineering-helpers/data-pipeline-deployment v0.0.x-alpha.x
+```
 
 # First time
 * Create the `dppctl` module:
