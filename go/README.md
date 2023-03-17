@@ -4,9 +4,12 @@ Getting started with Go for Data Processing Pipeline (DPP) CLI tool
 # References
 
 # Getting started
+* Check the latest versions/tags:
+  https://github.com/data-engineering-helpers/data-pipeline-deployment/tags
+
 * Import/download the module:
 ```bash
-$ go get github.com/data-engineering-helpers/data-pipeline-deployment@v0.0.x-alpha.x
+$ go get github.com/data-engineering-helpers/data-pipeline-deployment@vx.y.z
 ```
 
 # Publish the module
