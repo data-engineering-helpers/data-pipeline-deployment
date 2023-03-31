@@ -12,7 +12,7 @@ these companies.
 
 ## References
 * [Architecture principles for data engineering pipelines on the Modern Data Stack (MDS)](https://github.com/data-engineering-helpers/architecture-principles)
-* [Data Processing Pipeline (DPP) utility in Go](https://github.com/data-engineering-helpers/dppctl)
+* [`dpcctl`, the Data Processing Pipeline (DPP) CLI utility](https://github.com/data-engineering-helpers/dppctl), a Minimal Viable Product (MVP) in Go
 
 # Specifications
 
