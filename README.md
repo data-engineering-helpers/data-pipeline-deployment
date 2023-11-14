@@ -15,6 +15,7 @@ these companies.
 * [`dpcctl`, the Data Processing Pipeline (DPP) CLI utility](https://github.com/data-engineering-helpers/dppctl), a Minimal Viable Product (MVP) in Go
 * [Material for the Data platform - Data contracts](https://github.com/data-engineering-helpers/data-contracts/blob/main/README.md)
 * [Material for the Data quality - Data contracts](https://github.com/data-engineering-helpers/data-quality/blob/main/README.md)
+* [tobiko blog - Why Data Teams Are Adopting Declarative Pipelines](https://tobikodata.com/why-data-teams-are-adopting-declarative-pipelines.html), Nov. 2023, by Iaroslav Zeigerman
 
 # Specifications
 
