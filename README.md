@@ -17,7 +17,7 @@ these companies.
 * [GitHub - Material for the Data platform - Data contracts](https://github.com/data-engineering-helpers/data-contracts/blob/main/README.md)
 * [GitHub - Material for the Data quality - Data contracts](https://github.com/data-engineering-helpers/data-quality/blob/main/README.md)
 * [tobiko blog - Why Data Teams Are Adopting Declarative Pipelines](https://tobikodata.com/why-data-teams-are-adopting-declarative-pipelines.html),
-  Nov. 2023, by Iaroslav Zeigerman
+  Nov. 2023, by [Iaroslav Zeigerman](https://www.linkedin.com/in/izeigerman/)
 * [Substack - We Need a Data Engineering-Specific Language](https://juhache.substack.com/p/we-need-a-data-engineering-specific),
   Feb. 2024, by [Julien Hurault](https://www.linkedin.com/in/julienhuraultanalytics/)
 
