@@ -87,5 +87,5 @@ these companies.
 
 ## Architecture - Principles
 
-![Data Platform - Principles - Data Engineering](https://github.com/data-engineering-helpers/architecture-principles/blob/main/diagrams/material/Data%20Platform%20-%20Principles%20-%20Data%20Engineering%20-%202023-01%20-%20v1.0.png)
+![Data Platform - Principles - Data Engineering](https://github.com/data-engineering-helpers/architecture-principles/blob/main/diagrams/snapshots/Data%20Platform%20-%20Principles%20-%20Data%20Lake%20In%20and%20Out%20-%202023-04%20-%20v2.0.png)
 
