@@ -11,11 +11,15 @@ some companies, they speak on their personal behalf and do not represent
 these companies.
 
 ## References
-* [Architecture principles for data engineering pipelines on the Modern Data Stack (MDS)](https://github.com/data-engineering-helpers/architecture-principles)
-* [`dpcctl`, the Data Processing Pipeline (DPP) CLI utility](https://github.com/data-engineering-helpers/dppctl), a Minimal Viable Product (MVP) in Go
-* [Material for the Data platform - Data contracts](https://github.com/data-engineering-helpers/data-contracts/blob/main/README.md)
-* [Material for the Data quality - Data contracts](https://github.com/data-engineering-helpers/data-quality/blob/main/README.md)
-* [tobiko blog - Why Data Teams Are Adopting Declarative Pipelines](https://tobikodata.com/why-data-teams-are-adopting-declarative-pipelines.html), Nov. 2023, by Iaroslav Zeigerman
+* [GitHub - Architecture principles for data engineering pipelines on the Modern Data Stack (MDS)](https://github.com/data-engineering-helpers/architecture-principles)
+* [GitHub - `dpcctl`, the Data Processing Pipeline (DPP) CLI utility](https://github.com/data-engineering-helpers/dppctl),
+  a Minimal Viable Product (MVP) in Go
+* [GitHub - Material for the Data platform - Data contracts](https://github.com/data-engineering-helpers/data-contracts/blob/main/README.md)
+* [GitHub - Material for the Data quality - Data contracts](https://github.com/data-engineering-helpers/data-quality/blob/main/README.md)
+* [tobiko blog - Why Data Teams Are Adopting Declarative Pipelines](https://tobikodata.com/why-data-teams-are-adopting-declarative-pipelines.html),
+  Nov. 2023, by Iaroslav Zeigerman
+* [Substack - We Need a Data Engineering-Specific Language](https://juhache.substack.com/p/we-need-a-data-engineering-specific),
+  Feb. 2024, by [Julien Hurault](https://www.linkedin.com/in/julienhuraultanalytics/)
 
 # Specifications
 
