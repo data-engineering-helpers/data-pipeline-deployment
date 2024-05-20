@@ -16,6 +16,8 @@ these companies.
   a Minimal Viable Product (MVP) in Go
 * [GitHub - Material for the Data platform - Data contracts](https://github.com/data-engineering-helpers/data-contracts/blob/main/README.md)
 * [GitHub - Material for the Data quality - Data contracts](https://github.com/data-engineering-helpers/data-quality/blob/main/README.md)
+* [Atlassian - Evolve your data platform with a Deployment Capability](https://www.atlassian.com/engineering/evolve-your-data-platform-with-a-deployment-capability),
+  May 2024, by [Joop Van De Ven](https://www.linkedin.com/in/joop-van-de-ven-012ab31/)
 * [tobiko blog - Why Data Teams Are Adopting Declarative Pipelines](https://tobikodata.com/why-data-teams-are-adopting-declarative-pipelines.html),
   Nov. 2023, by [Iaroslav Zeigerman](https://www.linkedin.com/in/izeigerman/)
 * [Substack - We Need a Data Engineering-Specific Language](https://juhache.substack.com/p/we-need-a-data-engineering-specific),
