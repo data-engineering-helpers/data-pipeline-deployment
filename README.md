@@ -11,6 +11,7 @@ some companies, they speak on their personal behalf and do not represent
 these companies.
 
 ## References
+* [GitHub - Material/knowledge sharing (KS) - Deployment of Data processing pipelines (DPP)](README-material.md)
 * [GitHub - Architecture principles for data engineering pipelines on the Modern Data Stack (MDS)](https://github.com/data-engineering-helpers/architecture-principles)
 * [GitHub - `dpcctl`, the Data Processing Pipeline (DPP) CLI utility](https://github.com/data-engineering-helpers/dppctl),
   a Minimal Viable Product (MVP) in Go
