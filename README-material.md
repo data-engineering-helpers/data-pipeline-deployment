@@ -13,7 +13,9 @@ It is part of the [Data Engineering Helpers - Data pipeline deployment GitHub re
 * Description: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
 
 ### Related articles
-* Title: How Kestra Raised $8M: Our Seed Deck, Now Public
+
+#### How Kestra raised USD 8 millions
+* Title: How Kestra raised $8M: our seed deck, now public
 * Author: Emmanuel Darras, CEO at Kestra
   ([Emmanuel Darras on LinkedIn](https://www.linkedin.com/in/emmanuel-darras/).
   [Emmanuel Darras on Medium](https://medium.com/@edarras))
@@ -22,6 +24,14 @@ It is part of the [Data Engineering Helpers - Data pipeline deployment GitHub re
   * On LinkedIn: https://www.linkedin.com/posts/emmanuel-darras_kestra-8m-seed-ugcPost-7244689377652617216-KIDP
   * On Medium: https://medium.com/@edarras/how-kestra-raised-8m-our-seed-deck-now-public-b3493f5a9fbb
   * On the Kestra blog: https://kestra.io/blogs/2024-09-25-the-story-behind-our-seed
+
+#### (Kestra) Lessons Learned from Turning an Open Source Project into a Viable Business
+* Title: Lessons learned from turning an open source project into a viable business
+* Author: Ludovic Dehon
+  ([Ludovic Dehon on LinkedIn](https://www.linkedin.com/in/ludovic-dehon/))
+* Date: Sep. 2024
+* Link to the article on LinkedIn:
+  https://www.linkedin.com/pulse/lessons-learned-from-turning-open-source-project-viable-ludovic-dehon-e876e/
 
 ## DataPi
 * Home page: https://getdatapi.com/
