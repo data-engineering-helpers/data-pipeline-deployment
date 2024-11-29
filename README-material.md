@@ -12,6 +12,17 @@ It is part of the [Data Engineering Helpers - Data pipeline deployment GitHub re
 * GitHub home page: https://github.com/kestra-io/kestra
 * Description: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
 
+### Related articles
+* Title: How Kestra Raised $8M: Our Seed Deck, Now Public
+* Author: Emmanuel Darras, CEO at Kestra
+  ([Emmanuel Darras on LinkedIn](https://www.linkedin.com/in/emmanuel-darras/).
+  [Emmanuel Darras on Medium](https://medium.com/@edarras))
+* Date: Sep. 2024
+* Link on the post
+  * On LinkedIn: https://www.linkedin.com/posts/emmanuel-darras_kestra-8m-seed-ugcPost-7244689377652617216-KIDP
+  * On Medium: https://medium.com/@edarras/how-kestra-raised-8m-our-seed-deck-now-public-b3493f5a9fbb
+  * On the Kestra blog: https://kestra.io/blogs/2024-09-25-the-story-behind-our-seed
+
 ## DataPi
 * Home page: https://getdatapi.com/
 * GitHub home page: https://github.com/velascoluis/datapi-core
