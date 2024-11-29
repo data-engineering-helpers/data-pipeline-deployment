@@ -1,6 +1,10 @@
 Knowledge Sharing (KS) - Deploying of data processing pipelines (DPP)
 =====================================================================
 
+# Overview
+This page references some material about deploying Data processing pipelines (DPP).
+It is part of the [Data Engineering Helpers - Data pipeline deployment GitHub repository](https://github.com/data-engineering-helpers/data-pipeline-deployment).
+
 # Projects / frameworks
 
 ## Kestra
