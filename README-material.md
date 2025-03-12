@@ -17,6 +17,7 @@ It is part of the [Data Engineering Helpers - Data pipeline deployment GitHub re
 * Authors:
   * Animesh Kumar
   * Travis Thompson
+    ([Travis Thompson on LinkedIn](https://www.linkedin.com/in/travis-w-thompson/))
 * Link to the Substack article:
   https://moderndata101.substack.com/p/the-essence-of-having-your-own-data
 
