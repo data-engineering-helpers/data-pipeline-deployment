@@ -7,6 +7,19 @@ It is part of the [Data Engineering Helpers - Data pipeline deployment GitHub re
 
 # Projects / frameworks
 
+## Internal Developer Platforms (IDP)
+
+### Articles
+
+#### The Essence of Having Your Own Data Developer Platform
+* Title: The Essence of Having Your Own Data Developer Platform
+* Date: Apr. 2023
+* Authors:
+  * Animesh Kumar
+  * Travis Thompson
+* Link to the Substack article:
+  https://moderndata101.substack.com/p/the-essence-of-having-your-own-data
+
 ## Kestra
 * Home page: https://kestra.io/
 * GitHub home page: https://github.com/kestra-io/kestra
