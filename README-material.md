@@ -8,7 +8,7 @@ It is part of the [Data Engineering Helpers - Data pipeline deployment GitHub re
 # Projects / frameworks
 
 ## Starlake
-![image](https://github.com/user-attachments/assets/5284e981-3535-4ba2-88ba-ae5256203fcf)
+![image](https://github.com/user-attachments/assets/5284e981-3535-4ba2-88ba-ae5256203fcf | width=100)
 * Home page: https://starlake.ai/
 * GitHub page: https://github.com/starlake-ai/starlake
 * Motto: Declare your intent, don't code it!
